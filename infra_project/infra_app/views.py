@@ -1,3 +1,4 @@
+# какие то изменения
 from django.http import HttpResponse
 
 
